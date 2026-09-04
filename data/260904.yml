@@ -7,7 +7,7 @@ about:
   head: a40a769
   archived: true
   latestVersion: v3.1.17
-  collectedAt: 2026-09-04T19:58:40Z
+  collectedAt: 2026-09-04T20:41:55Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-08-26
@@ -84,5 +84,68 @@ total:
   openIssue: 7
   commit: 2511
 ---
+path: /home/runner/.x-repo/github.com/budimanjojo/talhelper
+collectedAt: 2026-09-04T20:41:56Z
+loc:
+  Json:
+    code: 62621
+    comments: 0
+    blanks: 0
+    files: 6
+  Go:
+    code: 9452
+    comments: 373
+    blanks: 1555
+    files: 88
+  Yaml:
+    code: 836
+    comments: 27
+    blanks: 6
+    files: 44
+  Css:
+    code: 338
+    comments: 0
+    blanks: 44
+    files: 3
+  Svg:
+    code: 195
+    comments: 0
+    blanks: 0
+    files: 1
+  Nix:
+    code: 125
+    comments: 8
+    blanks: 12
+    files: 3
+  Sh:
+    code: 67
+    comments: 2
+    blanks: 14
+    files: 2
+  JavaScript:
+    code: 59
+    comments: 3
+    blanks: 11
+    files: 1
+  Dockerfile:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1889
+    blanks: 623
+    files: 10
+  Text:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 2
+total:
+  code: 74233
+  comments: 2311
+  blanks: 2265
+  files: 161
 ---
 
