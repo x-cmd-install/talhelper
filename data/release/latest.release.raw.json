@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 764,
       "digest": "sha256:c181dcaa785303a5d7b14853e10a4c13df0cbf0898c3e5946064c04b300034a3",
-      "download_count": 836,
+      "download_count": 861,
       "created_at": "2026-08-26T01:52:00Z",
       "updated_at": "2026-08-26T01:52:00Z",
       "browser_download_url": "https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18509190,
       "digest": "sha256:cf86526d730010193d3e858f13242e5f0c94fdcefe5e001716c552211b1e95b0",
-      "download_count": 143,
+      "download_count": 144,
       "created_at": "2026-08-26T01:51:57Z",
       "updated_at": "2026-08-26T01:51:58Z",
       "browser_download_url": "https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 19512943,
       "digest": "sha256:dff9162569004637b6a842c4020d909b0ffbc7fbbe2fca23a754708db95be204",
-      "download_count": 8868,
+      "download_count": 9055,
       "created_at": "2026-08-26T01:51:57Z",
       "updated_at": "2026-08-26T01:52:01Z",
       "browser_download_url": "https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17516320,
       "digest": "sha256:1841915ec6f533ef653baedc5f1cbf68683e0ca9a72f240ac2f257d94f68798b",
-      "download_count": 118,
+      "download_count": 119,
       "created_at": "2026-08-26T01:51:57Z",
       "updated_at": "2026-08-26T01:51:58Z",
       "browser_download_url": "https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_linux_arm64.tar.gz"
