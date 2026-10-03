@@ -40,7 +40,7 @@ Total: **73,697** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 694 · **Forks**: 39 · **Open issues**: 157 · **Contributors**: 29
+- **Stars**: 693 · **Forks**: 39 · **Open issues**: 157 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **73,697** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 2 | 35 | 2 | 0 | 0 | 37 |
-| 90d | 2026-07-03 | 5 | 77 | 3 | 1 | 0 | 84 |
-| last180d | 2026-04-04 | 10 | 209 | 3 | 8 | 2 | 234 |
-| 360d | 2025-10-06 | 27 | 492 | 3 | 23 | 5 | 559 |
-| last720d | 2024-10-11 | 57 | 1018 | 3 | 69 | 6 | 1186 |
+| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 2 | 33 | 2 | 0 | 0 | 37 |
+| 90d | 2026-07-05 | 5 | 76 | 3 | 1 | 0 | 84 |
+| last180d | 2026-04-06 | 10 | 205 | 3 | 7 | 2 | 234 |
+| 360d | 2025-10-08 | 26 | 485 | 3 | 23 | 4 | 559 |
+| last720d | 2024-10-13 | 56 | 1015 | 3 | 69 | 6 | 1179 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for talhelper lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:38:54Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:07:19Z._
