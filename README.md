@@ -50,12 +50,12 @@ Total: **73,697** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-10 | 1 | 23 | 2 | 0 | 0 | 25 |
-| 90d | 2026-07-11 | 5 | 66 | 3 | 1 | 0 | 72 |
-| last180d | 2026-04-12 | 10 | 200 | 3 | 6 | 2 | 227 |
-| 360d | 2025-10-14 | 26 | 481 | 3 | 23 | 4 | 553 |
-| last720d | 2024-10-19 | 56 | 1009 | 3 | 67 | 6 | 1173 |
+| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 1 | 23 | 2 | 0 | 0 | 25 |
+| 90d | 2026-07-12 | 4 | 65 | 3 | 1 | 0 | 72 |
+| last180d | 2026-04-13 | 10 | 198 | 3 | 6 | 2 | 227 |
+| 360d | 2025-10-15 | 26 | 478 | 3 | 23 | 4 | 553 |
+| last720d | 2024-10-20 | 56 | 1008 | 3 | 67 | 6 | 1169 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for talhelper lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:52:03Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:33:43Z._
