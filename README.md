@@ -50,12 +50,12 @@ Total: **73,697** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 7 | 126 | 3 | 3 | 1 | 137 |
-| 360d | 2025-11-29 | 22 | 422 | 3 | 22 | 4 | 471 |
-| last720d | 2024-12-04 | 53 | 942 | 3 | 63 | 6 | 1090 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 7 | 123 | 3 | 3 | 1 | 137 |
+| 360d | 2025-11-30 | 22 | 418 | 3 | 22 | 4 | 471 |
+| last720d | 2024-12-05 | 53 | 940 | 3 | 63 | 6 | 1090 |
 
 ## Release assets
 
@@ -71,16 +71,6 @@ Total: **73,697** lines of code across **142** files in the top 5 languages.
 | [talhelper_windows_arm64.tar.gz](https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_windows_arm64.tar.gz) | 16.9 MiB | `native/win/arm64` |
 | [talhelper_windows_arm64.zip](https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_windows_arm64.zip) | 16.9 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/talhelper). **5** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.1.17` | ✅ latest |
-| Nix unstable | `3.1.17` | ✅ latest |
-| openSUSE Tumbleweed | `3.1.17` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for talhelper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `talhelper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +80,4 @@ Install metadata for talhelper lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:25:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:04:53Z._
